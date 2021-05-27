@@ -1,11 +1,11 @@
 {
-  "main.css": "/static/css/main.f1affabd.css",
-  "main.js": "/static/js/main.b74b4b48.js",
-  "main.css.map": "/static/css/main.f1affabd.css.map",
-  "main.js.map": "/static/js/main.b74b4b48.js.map",
-  "index.html": "/index.html",
-  "static/media/SectionBreak.css": "/static/media/gradient-line.8955d747.svg",
-  "static/media/microscope-man-2018-05-30.svg": "/static/media/microscope-man-2018-05-30.7cebc4c4.svg",
-  "static/media/osquery-terminal-listening-ports-2018-05-30.png": "/static/media/osquery-terminal-listening-ports-2018-05-30.c160bb91.png",
-  "static/media/osquery-text-logo-2018-05-30.png": "/static/media/osquery-text-logo-2018-05-30.6639d4bd.png"
+  "main.css": "/osquery-site/static/css/main.ab9fa342.css",
+  "main.js": "/osquery-site/static/js/main.3279873d.js",
+  "main.css.map": "/osquery-site/static/css/main.ab9fa342.css.map",
+  "main.js.map": "/osquery-site/static/js/main.3279873d.js.map",
+  "index.html": "/osquery-site/index.html",
+  "static/media/SectionBreak.css": "/osquery-site/static/media/gradient-line.8955d747.svg",
+  "static/media/microscope-man-2018-05-30.svg": "/osquery-site/static/media/microscope-man-2018-05-30.7cebc4c4.svg",
+  "static/media/osquery-terminal-listening-ports-2018-05-30.png": "/osquery-site/static/media/osquery-terminal-listening-ports-2018-05-30.c160bb91.png",
+  "static/media/osquery-text-logo-2018-05-30.png": "/osquery-site/static/media/osquery-text-logo-2018-05-30.6639d4bd.png"
 }
